@@ -1,0 +1,25 @@
+{
+  "name": "ppigm.github.io",
+  "version": "1.0.0",
+  "description": "Gitbook for Python Workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppigm/ppigm.github.io.git"
+  },
+  "author": "Rakha Djokosoetono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppigm/ppigm.github.io/issues"
+  },
+  "homepage": "https://github.com/ppigm/ppigm.github.io#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.6",
+    "load-plugins": "^2.1.2"
+  }
+}
