@@ -1,8 +1,8 @@
 {
   "name": "ppigm.github.io",
   "version": "1.0.0",
-  "description": "Gitbook for Python Workshops",
-  "main": "index.js",
+  "description": "<i>powered by Professional Development</i> <br /><br /> Selamat datang di Python Gitbook workshop! This is in progress!",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,6 @@
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
-    "gulp-load-plugins": "^2.0.6",
-    "load-plugins": "^2.1.2"
+    "gulp-load-plugins": "^2.0.6"
   }
 }
