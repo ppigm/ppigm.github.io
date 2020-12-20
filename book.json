@@ -1,0 +1,11 @@
+{
+    "gitbook": "3.2.3",
+    "description": "Python book for PPIGM ",
+    "plugins": ["insert-logo"],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "../assets/ppigm-logo.jpeg",
+            "style": "background: none; height: 100px; width: 100px; align: left"
+        }
+    }
+}

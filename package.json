@@ -1,0 +1,24 @@
+{
+  "name": "learn-python",
+  "version": "1.0.0",
+  "description": "gitbook for ppigm python workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppigm/learn-python.git"
+  },
+  "author": "Rakha Djokosoetono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppigm/learn-python/issues"
+  },
+  "homepage": "https://github.com/ppigm/learn-python#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-insert-logo": "^0.1.5"
+  }
+}
